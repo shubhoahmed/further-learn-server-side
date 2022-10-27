@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Graphics Design ",
+        "price": 22.3,
+        "description": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.",
+        "category": "Graphics Design",
+        "image": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2018/11/what-is-graphic-design.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 2,
+        "title": "Web Design Fontend",
+        "price": 55.99,
+        "description": "Web design is a multi-disciplinary job, where you'd need not only knowledge in design (typography, color theory) but also skills in developing a website (HTML, CSS, JavaScript). Some web designers are also involved in interaction design when they code for animations and interactions using CSS and/or JavaScript.",
+        "category": "Web Design",
+        "image": "https://www.cloudways.com/blog/wp-content/uploads/20-Best-Web-Design-Tools-for-Design-Agencies.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 3,
+        "title": "Web Development Backend",
+        "price": 15.99,
+        "description": "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience. Web developers, or 'devs', do this by using a variety of coding languages",
+        "category": "Web Development",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210408171241/12-Backend-Development-Tools-For-Web-Developers.png",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 4,
+        "title": "Digital Marketing",
+        "price": 695,
+        "description": "Digital marketing lets you communicate with your customers in real-time. More importantly, it lets them communicate with you. Think about your social media strategy. It's great when your target audience sees your latest post, but it's even better when they comment on it or share it.",
+        "category": "Marketing",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 5,
+        "title": "Data Structure",
+        "price": 168,
+        "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways.",
+        "category": "Data Science",
+        "image": "https://www.techyloud.com/wp-content/uploads/2022/02/Data-Structure-assignement.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 6,
+        "title": "Algorithmn ",
+        "price": 168,
+        "description": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.An algorithm is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines. Algorithms are widely used throughout all areas of IT.",
+        "category": "Algorithms",
+        "image": "https://pandorafms.com/blog/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    }
+]
