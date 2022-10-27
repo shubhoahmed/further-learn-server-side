@@ -18,5 +18,5 @@ app.get('/courses/:id', (req, res) => {
     res.send(course);
 })
 app.listen(port, () => {
-    console.log('Further Learn sercer running on', port);
+    console.log('Further Learn server running on', port);
 })
